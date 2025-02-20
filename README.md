@@ -23,7 +23,7 @@ This project explores the **Meteorite Landings dataset** using **Exploratory Dat
 
 ## 🛠️ Technologies Used  
 - **Python** 🐍  
-- **Pandas, NumPy** for data manipulation  
+- **Pandas** for data manipulation  
 - **Matplotlib, Seaborn** for visualization  
 - **Jupyter Notebook / Kaggle Notebook**  
 
